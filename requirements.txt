@@ -1,0 +1,3 @@
+PyQt6>=6.6
+cchess>=1.25
+python-chess>=1.11
